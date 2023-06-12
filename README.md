@@ -1,2 +1,5 @@
-# Cralwer-for-blake.com.tw
-This code cralws data from blake.com.tw and generates the required JSON files.
+# Crawler-for-website
+This code crawls data from the website that is listed below and generates the required JSON files.
+ - Blake.com.tw
+ - blog.plain-me.com
+ - yoke918.com
